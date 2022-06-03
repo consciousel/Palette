@@ -23,6 +23,10 @@ Due to network issues, conjection on the blockchain, internal converstion errors
 
 - If there is an issue retreiving the file url you can try to reupload your metadata on step three.
 - If signing the transaction and it fails the 'retry mint' button or the 'start fresh mint' button will be displayed if the mint can still be executed with the available data. If not, you can simply reload the page and try the process again. 
+- If the mint process is successful but the NFT image is not showing up on OpenSea or your prefered market place, try refreshing the NFT metadata on the platform. This should resolve the issue as it may take a while for the data to sync, unless the format of your NFT file is not supported on that platform. 
+
+
+#### Contract deployed on Polygon mainnet @address: [0x825387120171F22D5240c26D877Eb21D0a548E52](https://polygonscan.com/address/0x825387120171F22D5240c26D877Eb21D0a548E52)
 
 
 
